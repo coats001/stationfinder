@@ -1,0 +1,24 @@
+{
+  "UICCode": "8002084",
+  "stationType": "SNELTREIN_STATION",
+  "EVACode": "8000139",
+  "code": "MGZB",
+  "sporen": [],
+  "synoniemen": [
+    "Gunzburg"
+  ],
+  "heeftFaciliteiten": true,
+  "heeftVertrektijden": true,
+  "heeftReisassistentie": false,
+  "namen": {
+    "lang": "Günzburg",
+    "middel": "Günzburg",
+    "kort": "Günzburg"
+  },
+  "land": "D",
+  "lat": 48.460226,
+  "lng": 10.278707,
+  "radius": 0,
+  "naderenRadius": 0,
+  "ingangsDatum": "2018-12-16"
+}
